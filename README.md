@@ -31,7 +31,7 @@ Tecnologías usadas en el proyecto:
 ### Instalation
 
 ```
-$ git clone 
+$ git clone https://github.com/melicasasco/reclamos-app.git
 $ npm install
 $ npm run dev
 
