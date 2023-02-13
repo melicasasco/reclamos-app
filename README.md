@@ -7,8 +7,8 @@ SPA de reclamos
 
 ## Functionalities
 
-- Home con secciones hacer reclamos y ver reclamos realizados
-- Reclamos: formulario con los campos titulo, descripción, comunda e imagen para crear el reclamo.
+- Home con secciones hacer reclamos y ver reclamos realizados.
+- Reclamos: formulario con los campos título, descripción, comuna e imagen para crear el reclamo.
 - Ver reclamos: tabla que muestra todos los reclamos realizados.
 
 ---
@@ -32,7 +32,7 @@ Tecnologías usadas en el proyecto:
 
 ```
 $ git clone https://github.com/melicasasco/reclamos-app.git
-$ npm install
+$ npm install --force
 $ npm run dev
 
 ```
